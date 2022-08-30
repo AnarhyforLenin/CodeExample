@@ -1,5 +1,5 @@
 
-package com.spicysauce.lessstress;
+package com.company;
 
 import android.annotation.SuppressLint;
 import android.content.ClipData;
